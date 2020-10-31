@@ -9,7 +9,7 @@
 </tr>
 </table>
 
-## Azərbaycan və yaxın ərazilərin xəritə "tile" faylları. [800 MB]
+## 🗺 Azərbaycan və yaxın ərazilərin xəritə "tile" faylları. [800 MB]
 GoMap.az layihəsinə aid xəritəmizin "tile" faylları.
 
 **Demo: https://haranialdiq.com**
