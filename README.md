@@ -3,6 +3,8 @@
 ## Azərbaycan və yaxın ərazilərin xəritə "tile" faylları. [800 MB]
 GoMap.az layihəsinə aid xəritəmizin "tile" faylları.
 
+**Demo: https://haranialdiq.com**
+
 <img src="https://github.com/rufat/gomap-tiles/blob/master/readme/gomap_logo.png" height="100" alt="Loqo" />
 
 ### Bu nədir?
