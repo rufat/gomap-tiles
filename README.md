@@ -27,7 +27,7 @@ Son Qarabağ müharibəsi ərəfəsində, müharibəni canlı xəritədə göst�
 
 Ancaq təəsüf ki, GoMap.az provayderi günlük 20k istifadəçisi olan https://haranialdiq.com saytına və öz ziyarətçilərinə tab gətirməyərək çökməyə davam etdi. Bu barədə GoMap.az üçün SİNAM Ltd. şirkətinə bildirilən iradlar cavabsız qaldı. Azad edilmiş bölgələr Prezidentin Twitter hesabından elan edildiyi dəqiqələrdə GoMap.az çökməyə başlayırdı. Bu da mənim saytımın işlək olmamasına gətirib çıxarırdı.
 
-Onu qeyd etmək istərdim ki, layihənin kommersiyal məqsəd güdmədiyini qeyd edərək ilk səfərdə GoMap.az-dan API üçün istifadədən icazə istədikdə SİNAM Ltd. şirkətinin nümayəndəsi Xəqani bəy tez vaxt da məni lazımi məlumatlarla təmin etdi. Ancaq təəsüf ki, daha sonra platformanın çökmə məsələsində danışıqlarımız baş tuta bilmədi, cavabsız qaldı.
+Onu qeyd etmək istərdim ki, layihənin kommersiyal məqsəd güdmədiyini qeyd edərək ilk səfərdə GoMap.az-dan API üçün istifadədən icazə istədikdə SİNAM Ltd. şirkətinin nümayəndəsi Xəqani bəy tez vaxt da məni lazımi məlumatlarla təmin etdi. Bu səbəblə də minnətdaram. 🙏 Ancaq təəsüf ki, daha sonra platformanın çökmə məsələsində danışıqlarımız baş tuta bilmədi, cavabsız qaldı.
 
 <img src="https://raw.githubusercontent.com/rufat/gomap-tiles/master/readme/gomap_convo.png" height="400" alt="Söhbət" />
 
