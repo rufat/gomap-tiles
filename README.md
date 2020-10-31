@@ -1,11 +1,20 @@
-[<img src="https://github.com/rufat/gomap-tiles/blob/master/readme/haranialdiq.png" height="50" alt="Loqo" />](https://haranialdiq.com)
+<table>
+<tr>
+  <td valign="top">
+    <img align=top src="https://github.com/rufat/gomap-tiles/blob/master/readme/haranialdiq.png" height="50" alt="Loqo" />
+  </td>
+  <td valign="top">
+    <img align=top src="https://github.com/rufat/gomap-tiles/blob/master/readme/gomap_logo.png" height="50" alt="Loqo" />
+  </td>
+</tr>
+</table>
 
 ## Azərbaycan və yaxın ərazilərin xəritə "tile" faylları. [800 MB]
 GoMap.az layihəsinə aid xəritəmizin "tile" faylları.
 
 **Demo: https://haranialdiq.com**
 
-<img src="https://github.com/rufat/gomap-tiles/blob/master/readme/gomap_logo.png" height="100" alt="Loqo" />
+
 
 ### Bu nədir?
 Gördüyünüz qovluqlar və daxilindəki şəkillərin hərəsi Azərbaycan, Dağlıq Qarabağ, Naxçıvan və qismən Gürcüstan xəritələrinin bir hissələridir. Bu "tile" (xəritə hissələri) faylları (.PNG) ilə { X, Y, Z } kordinatlarına uyğun olaraq birləşdirilib tam xəritə əldə etmək mümkündür.
