@@ -1,3 +1,5 @@
+[<img src="https://github.com/rufat/gomap-tiles/blob/master/readme/haranialdiq.png" height="50" alt="Loqo" />](https://haranialdiq.com)
+
 ## Azərbaycan və yaxın ərazilərin xəritə "tile" faylları. [800 MB]
 GoMap.az layihəsinə aid xəritəmizin "tile" faylları.
 
@@ -17,3 +19,8 @@ Ancaq təəsüf ki, GoMap.az provayderi günlük 20k istifadəçisi olan https:/
 Onu qeyd etmək istərdim ki, layihənin kommersiyal məqsəd güdmədiyini qeyd edərək ilk səfərdə GoMap.az-dan API üçün istifadədən icazə istədikdə SİNAM Ltd. şirkətinin nümayəndəsi Xəqani bəy tez vaxt da məni lazımi məlumatlarla təmin etdi. Ancaq təəsüf ki, daha sonra platformanın çökmə məsələsində danışıqlarımız baş tuta bilmədi, cavabsız qaldı.
 
 <img src="https://raw.githubusercontent.com/rufat/gomap-tiles/master/readme/gomap_convo.png" height="400" alt="Söhbət" />
+
+
+### İanə et
+Bitcoin olaraq və ya [bu səhifədən Paypal, card-to-card vasitələri ilə ianə edə bilərsini.](https://haranialdiq.com/donate) ☺️ 🙌
+[<img src="https://github.com/rufat/gomap-tiles/blob/master/readme/donate_btc.png?raw=true" height="400" alt="BTC QR ianə" />](https://haranialdiq.com/donate)
